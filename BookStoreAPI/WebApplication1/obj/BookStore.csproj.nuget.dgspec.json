@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rites\\Desktop\\BookAPIProject\\BookStoreAPI\\WebApplication1\\BookStore.csproj": {}
+    "C:\\Users\\rites\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\BookStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rites\\Desktop\\BookAPIProject\\BookStoreAPI\\WebApplication1\\BookStore.csproj": {
+    "C:\\Users\\rites\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\BookStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rites\\Desktop\\BookAPIProject\\BookStoreAPI\\WebApplication1\\BookStore.csproj",
+        "projectUniqueName": "C:\\Users\\rites\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\BookStore.csproj",
         "projectName": "BookStore",
-        "projectPath": "C:\\Users\\rites\\Desktop\\BookAPIProject\\BookStoreAPI\\WebApplication1\\BookStore.csproj",
+        "projectPath": "C:\\Users\\rites\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\BookStore.csproj",
         "packagesPath": "C:\\Users\\rites\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rites\\Desktop\\BookAPIProject\\BookStoreAPI\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\rites\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rites\\AppData\\Roaming\\NuGet\\NuGet.Config",
