@@ -5610,19 +5610,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rites\\.nuget\\packages\\": {}
+    "C:\\Users\\RITESH KUMAR\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rites\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\BookStore.csproj",
+      "projectUniqueName": "C:\\Users\\RITESH KUMAR\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\BookStore.csproj",
       "projectName": "BookStore",
-      "projectPath": "C:\\Users\\rites\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\BookStore.csproj",
-      "packagesPath": "C:\\Users\\rites\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rites\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\obj\\",
+      "projectPath": "C:\\Users\\RITESH KUMAR\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\BookStore.csproj",
+      "packagesPath": "C:\\Users\\RITESH KUMAR\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RITESH KUMAR\\Documents\\GitHub\\BookStoreAPI\\BookStoreAPI\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rites\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RITESH KUMAR\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5695,7 +5695,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
