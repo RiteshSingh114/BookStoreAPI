@@ -64,8 +64,5 @@ namespace BookStore.Repositories
             _context.Books.Remove(book);
             await _context.SaveChangesAsync();
         }
-
-
-
     }
 }
