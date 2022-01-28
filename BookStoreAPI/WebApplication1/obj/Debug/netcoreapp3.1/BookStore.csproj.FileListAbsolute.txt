@@ -134,8 +134,6 @@ C:\Users\rites\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\De
 C:\Users\rites\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.dll
 C:\Users\rites\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\rites\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.dll
-C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.pdb
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\BookStore.exe
@@ -203,4 +201,11 @@ C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\BookStore.styles.css
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.RazorTargetAssemblyInfo.cache
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.csproj.CopyComplete
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.dll
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.pdb
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
