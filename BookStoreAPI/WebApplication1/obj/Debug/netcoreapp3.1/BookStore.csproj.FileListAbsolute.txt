@@ -208,3 +208,5 @@ C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.dll
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.pdb
 C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.genruntimeconfig.cache
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\obj\Debug\netcoreapp3.1\BookStore.csproj.AssemblyReference.cache
+C:\Users\RITESH KUMAR\Documents\GitHub\BookStoreAPI\BookStoreAPI\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll

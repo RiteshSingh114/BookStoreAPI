@@ -1,5 +1,6 @@
 ﻿using BookStore.Models;
 using BookStore.Repositories;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -29,6 +30,16 @@ namespace BookStore.Controllers
                 return Ok(result.Succeeded);
             }
             return Unauthorized();
-        } 
+        }
+        [HttpPost("Login")]
+        public async Task<IActionResult> Login([FromBody] SignInModel signinModel)
+        {
+            var result = await _accountRepository.SignIn(signinModel);
+            if (string.IsNullOrEmpty(result))
+            {
+                return Unauthorized();
+            }
+            return Ok(result);
+        }
     }
 }
