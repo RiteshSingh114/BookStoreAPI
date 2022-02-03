@@ -3,6 +3,8 @@ using BookStore.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,7 +14,7 @@ namespace BookStore.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class AccountController : ControllerBase
+    public class AccountController : Controller
     {
         private readonly IAccountRepository _accountRepository;
 
@@ -39,7 +41,7 @@ namespace BookStore.Controllers
             {
                 return Unauthorized();
             }
-            return Ok(result);
+            return Ok(Json(result));
         }
     }
 }
